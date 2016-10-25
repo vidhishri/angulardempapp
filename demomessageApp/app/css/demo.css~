@@ -1,0 +1,33 @@
+<style type="text/css">
+a{
+	cursor: pointer;
+	text-decoration: none;
+}
+	.detailsBox {
+	    max-width: 400px;
+	    margin: 50px auto;
+	    background-color: #efefef;
+	    padding: 20px;
+	    border-radius: 10px;
+	}
+	.detailsBox .form-row{
+		margin: 0 0 20px;
+		overflow: hidden;
+	}
+
+	.detailsBox .form-row span{
+		font-size: 14px;
+	}
+
+	.detailsBox .form-row span:first-child{
+		font-size: 14px;
+		font-weight: 700;
+		float: left;
+		width: 30%;
+	}
+	.detailsBox .form-row span:last-child{
+		font-size: 14px;
+		float: left;
+		width: 70%;
+	}
+</style>
